@@ -1,0 +1,27 @@
+/* @font-face {
+  font-family: 'Inter';
+  src: url(Inter-VariableFont_slntwght.ttf) format('truetype');
+  font-style: normal;
+  font-weight: normal;
+} */
+
+@font-face {
+  font-family: 'Inter';
+  src: url(Inter-Regular.ttf) format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(Inter-Bold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(Inter-ExtraBold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 800;
+}
