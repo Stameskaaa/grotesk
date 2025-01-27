@@ -320,12 +320,12 @@
 
 .first-screen--images div:nth-child(2) {
   margin-bottom: auto;
-  background-image: url('/assets/image.png');
+  background-image: url('./assets/image.png');
 }
 
 .first-screen--images div:first-child {
   margin-top: auto;
-  background-image: url('/assets/image2.png');
+  background-image: url('./assets/image2.png');
 }
 
 .slider-wrapper {
